@@ -13,9 +13,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://andreh-carioca.github.io/devlinks/)
+- [Visite o projeto online](https://andreh-carioca.github.io/nlw-habits/)
 
